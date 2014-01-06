@@ -1,0 +1,13 @@
+/*TEAM*/
+Design & Development : Gabe
+Location: Maple Syrup Land
+
+/*Thanks*/
+Thanks Tif! You're awesome. 
+
+/*Site*/
+Potatoes.
+Last Updated: 2013/11/15
+Standards: HTML5, CSS3
+Components: Jquery
+Software: Adobe Dreamweaver, LiveReload
